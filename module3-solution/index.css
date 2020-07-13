@@ -18,3 +18,10 @@
 .td{
 	text-decoration: none !important;
 }
+
+.ta{
+	text-align: center;
+}
+.br{
+	border-radius: 0px;
+}
